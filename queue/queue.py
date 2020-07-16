@@ -33,6 +33,9 @@ Stretch: What if you could only use instances of your Stack class to implement t
         
 # LL Implementation 
 
+
+import sys
+sys.path.insert(0, "../")
 from singly_linked_list.singly_linked_list import Node, LinkedList
 
 class Queue:
